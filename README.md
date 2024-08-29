@@ -1,2 +1,2 @@
 # odin-recipe
- A repository for odin proj
+ A repository for sample recipes 
